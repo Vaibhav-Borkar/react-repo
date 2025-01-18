@@ -4,3 +4,4 @@ const first = () => {
   const c = 3;
   return a + b + c;
 };
+// adding same line in branch1
